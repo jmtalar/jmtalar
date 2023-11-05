@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmtalar
-- 👀 I’m interested in web development.
-- 🌱 I’m working on Angular project and developing .NET skills.
-- 💞️ I’m looking to collaborate on nothing in particular, keeping open mind.
+- 👀 I’m working as a front-end developer.
+- 🌱 I’m working on Angular projects and developing my .NET skills.
+- 💞️ I’m looking to collaborate on projects supporting public health/science/technology, keeping open mind.
 - 📫 How to reach me - message me privately.
 
 <!---
